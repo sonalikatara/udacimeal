@@ -18,7 +18,7 @@ listen the server on http://localhost:3000
 
 ## Features
 
-** Calendar **
+**Calendar**
 
 ![Calendar](img/ScreenShotCalendar.png)
 
@@ -26,7 +26,7 @@ This application has a Calendar that shows 3 differents meals for a day.
 
 You can click on the calendar icon for a meal and search it for pictures and ingredients.
 
-** Shopping List **
+**Shopping List**
 
 ![shoppingList](img/ScreenShotShoppingList.png)
 
