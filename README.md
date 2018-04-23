@@ -1,9 +1,9 @@
-##UdaciMeals - a food calendar application
+## UdaciMeals - a food calendar application
 
 
 ## Project Setup
 
-The REACT application was created with create-react-app and requires only npm install and npm start to get it installed and launched.
+This REACT application was created with create-react-app and requires only npm install and npm start to get it installed and launched.
 
 ## Installation and Launching
 clone the Project - git clone https://github.com/sonalikatara/udacimeal
